@@ -12,7 +12,6 @@ For the implementation of multi-objective models used in the research, [DeepCTR]
 ## Citation
 
 - Yıldırım, Ezgi, Payam Azad, and Şule Gündüz Öğüdücü. "biDeepFM: A multi-objective deep factorization machine for reciprocal recommendation." Engineering Science and Technology, an International Journal (2021).
-https://github.com/shenweichen/deepctr.
 
 
 If you find this code useful in your research, please cite it using the following BibTeX:
